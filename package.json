@@ -8,8 +8,6 @@
   },
   "author": "Your Name",
   "license": "MIT",
-  "dependencies": {
-  },
   "bin": {
     "slack-msg": "index.js"
   }
