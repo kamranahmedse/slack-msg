@@ -1,0 +1,16 @@
+{
+  "name": "slack-msg",
+  "version": "1.0.0",
+  "description": "Send messages to Slack from the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "bin": {
+    "slack-msg": "index.js"
+  }
+}
