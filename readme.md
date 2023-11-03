@@ -1,3 +1,5 @@
+<img height="330" src="https://i.imgur.com/rnoP94U.png" align="right" />
+
 # slack-msg
 > Dead simple CLI to send messages to Slack
 
